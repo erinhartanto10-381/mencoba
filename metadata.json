@@ -1,0 +1,6 @@
+{
+  "name": "Asisten AI Pendampingan Edukatif",
+  "description": "Asisten AI untuk Pengawas Sekolah dan Kepala Sekolah dalam menganalisis refleksi guru, merumuskan solusi pembelajaran mendalam (Deep Learning), dan menyelaraskan Standar Pelayanan Minimal (SPM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
